@@ -1,4 +1,4 @@
-# TopN Files and Directories
+# Local Storage-Analysis: Top-N Files and Directories
 
 A simple command-line Rust application that identifies and displays the top N largest files and directories in a specified directory.
 
